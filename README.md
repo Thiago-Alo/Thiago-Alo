@@ -1,8 +1,19 @@
-### Hi there 👋
+### Hello my name is Thiago Alô and currently 👋
 
-Front end engineering student and system analysis student
+I'm a Front-end Engineering Student - Ebac - UK
+
+- I'm apt in Html, Css, Js, Bootstrap, Git
+- I’m currently learning Js, Jquery, Vue, React, Sass, NodeJs, Figma.
+
+Graduate Student in Systems Analysis - Clarentiano - BR
+
+- I’m currently learning Java, SQL.
+
+Studying Web & Mobile Development - Cesae - PT
+
+- I’m currently learning Java, Sql, Angular, Cordova, Ionic, Xamarin, C#, Java Native, React Native, Html, Css, Bootstrap, Js, NodeJs...
 
 
-- �I’m currently learning Html, Css, Js, Jquery, Vue, React.
+
 
 
