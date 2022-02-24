@@ -11,7 +11,7 @@ Graduate Student in Systems Analysis - Clarentiano - BR
 
 Studying Web & Mobile Development - Cesae - PT
 
-- I’m currently learning Java, Spring, Sql, Angular, Cordova, Ionic, Xamarin, C#, Java Native, React Native, Html, Css, Bootstrap, Js, NodeJs...
+- I’m currently learning Java, Spring, Sql, Angular, Cordova, Ionic, Xamarin, C#, Java Native, React Native, WordPress, Html, Css, Bootstrap, Js, NodeJs...
 
 
 
